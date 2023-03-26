@@ -362,6 +362,6 @@ task.spawn(function()
                                        discord.gg/vadrifts
 --]]
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsbyp'),true))()
 end)
 
